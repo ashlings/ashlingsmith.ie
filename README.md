@@ -1,0 +1,2 @@
+# ashlingsmith.ie
+wordpress website
